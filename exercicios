@@ -1,1 +1,25 @@
+Resolva as seguintes consultas em sql, conforme MySQL:
+1. Retorne os empregados que trabalham no departamento 5
+2. Retorne os empregados com sal´ario maior que 3000,00
+3. Retorne os empregados que trabalham no departamento 5 e tˆem sal´ario maior que 3000,00
+4. Retorne os empregados que trabalham no departamento 5 e tˆem sal´ario maior que 3000,00 ou que trabalham
+no departamento 4 e tˆem sal´ario maior que 2000,00
+5. Retorne o primeiro nome e o sal´ario de cada empregado
+6. Retorne o primeiro nome e o sal´ario dos empregados que trabalham no departamento 5
+7. Retorne o RG de todos os empregados que trabalham no departamento 5 ou supervisionam diretamente um
+empregado que trabalha no departamento 5
+8. Retorne os primeiros nomes de empregados que s˜ao iguais a nomes de dependentes
+9. Retorne todas as combina¸c˜oes de primeiro nome de empregados e nome de dependentes
+10. Retorne os nomes dos empregados e de seus respectivos dependentes
+11. Retorne o nome do gerente de cada departamento
+12. Retorne todas as localiza¸c˜oes de cada departamento usando jun¸c˜ao natural
+13. Retorne o nome do empregado e o nome de cada projeto que ele trabalha
+1
+14. Retorne o nome dos empregados que trabalham em algum projeto controlado pelo departamento 5
+15. Retorne o n´umero de empregados da empresa
+16. Retorne o n´umero do departamento e o n´umero de empregados de CADA departamento da empresa
+17. Retorne o n´umero do departamento e a m´edia do sal´ario dos empregados de CADA departamento da empresa
+18. Retorne o nome e o endere¸co de todos os empregados que trabalham no departamento ‘Pesquisa’
+19. Para cada projeto localizado em ‘Londrina’, retorne o n´umero do projeto, o n´umero do departamento que o
+controla, e o nome e sexo do gerente do departamento
 
